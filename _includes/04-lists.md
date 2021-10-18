@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* :heart: Football
+* :heart: Movies
+* :heart: Music
+  * Semi Classical
+  * Folk
